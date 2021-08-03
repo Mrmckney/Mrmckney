@@ -1,6 +1,8 @@
 ### Hi there 👋
-[![Mrmckney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmckney&show_icons=true&theme=tokyonight)](https://github.com/Mrmckney)
-[![Mrmckney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmckney&layout=compact&theme=tokyonight)](https://github.com/Mrmckney)
+[![Mrmckney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmckney&show_icons=true&theme=highcontrast)](https://github.com/Mrmckney)
+[![Mrmckney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmckney&layout=compact&theme=highcontrast)](https://github.com/Mrmckney)
+
+
 <!--
 **Mrmckney/Mrmckney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
