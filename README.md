@@ -1,5 +1,4 @@
 ### Hello there 👋
-[![Mrmckney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmckney&show_icons=true&theme=slateorange)](https://github.com/Mrmckney)
 [![Mrmckney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmckney&layout=compact&theme=slateorange)](https://github.com/Mrmckney)
 
 
